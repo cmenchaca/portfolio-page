@@ -57,7 +57,7 @@ h1 {
 
 .title {
   padding: 1px 15px;
-  background: rgba(192, 210, 225, 0.7);
+  background: rgba(47, 111, 167, 0.7);
   margin: 0 auto;
   border-radius: 20px;
   text-align: center;
@@ -65,7 +65,8 @@ h1 {
 
 .title a{
   text-decoration: none;
-  color: black;
+  font-family: inherit;
+  color: whitesmoke;
   
   
   
