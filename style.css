@@ -1,4 +1,5 @@
 /* Fonts from Google Fonts - more at https://fonts.google.com */
+/* Fonts from Google Fonts - more at https://fonts.google.com */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
 
@@ -57,7 +58,7 @@ h1 {
 
 .title {
   padding: 10px 30px;
-  background: #03ADE8;
+  background: rgba(192, 210, 225,0.50);
   margin: 0 auto;
   border-radius: 25px;
   text-align: center;
@@ -70,4 +71,3 @@ h1 {
   
   
 }
-
